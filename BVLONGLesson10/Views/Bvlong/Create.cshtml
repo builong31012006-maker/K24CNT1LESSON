@@ -1,0 +1,60 @@
+@model BVLONGLesson10.Models.Bvlong
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Bvlong</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="BvlongUsername" class="control-label"></label>
+                <input asp-for="BvlongUsername" class="form-control" />
+                <span asp-validation-for="BvlongUsername" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BvlongPassword" class="control-label"></label>
+                <input asp-for="BvlongPassword" class="form-control" />
+                <span asp-validation-for="BvlongPassword" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BvlongFullName" class="control-label"></label>
+                <input asp-for="BvlongFullName" class="form-control" />
+                <span asp-validation-for="BvlongFullName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BvlongEmail" class="control-label"></label>
+                <input asp-for="BvlongEmail" class="form-control" />
+                <span asp-validation-for="BvlongEmail" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BvlongPhone" class="control-label"></label>
+                <input asp-for="BvlongPhone" class="form-control" />
+                <span asp-validation-for="BvlongPhone" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="BvlongStatus" class="control-label"></label>
+                <input asp-for="BvlongStatus" class="form-check-input" />
+                <span asp-validation-for="BvlongStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
