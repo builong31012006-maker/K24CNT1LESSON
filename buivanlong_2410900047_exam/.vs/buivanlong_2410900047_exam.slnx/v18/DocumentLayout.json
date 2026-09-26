@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\views\\home\\hvtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:views\\home\\hvtabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\controllers\\bvlstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:controllers\\bvlstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\models\\bvlstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:models\\bvlstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|h:\\k24cnt1.net\\k24cnt1lesson\\buivanlong_2410900047_exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A645065E-B552-44AD-8589-12F4FE0DBDB8}|buivanlong_2410900047_exam.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HvtAbout.cshtml",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\Home\\HvtAbout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\HvtAbout.cshtml",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\Home\\HvtAbout.cshtml",
+              "RelativeToolTip": "Views\\Home\\HvtAbout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T02:32:45.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\AppDbContext.cs",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:39:12.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:23:51.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bvlStudent.cs",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Controllers\\bvlStudent.cs",
+              "RelativeDocumentMoniker": "Controllers\\bvlStudent.cs",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Controllers\\bvlStudent.cs",
+              "RelativeToolTip": "Controllers\\bvlStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:23:44.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T02:20:54.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bvlStudent.cs",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Models\\bvlStudent.cs",
+              "RelativeDocumentMoniker": "Models\\bvlStudent.cs",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Models\\bvlStudent.cs",
+              "RelativeToolTip": "Models\\bvlStudent.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T02:18:34.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T01:32:09.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T01:27:59.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "H:\\K24CNT1.NET\\K24CNT1LESSON\\buivanlong_2410900047_exam\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-26T01:37:48.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
