@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Entities/">
+    <File Path="AppDbcontext.cs" />
+  </Folder>
+  <Project Path="bvlnetcore-ef.csproj" />
+</Solution>
