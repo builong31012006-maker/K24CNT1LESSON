@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+    <div>
+        <a href="/Products/Index">Danh sách sản phẩm</a>
+        <a href="/Products/Search">Tìm kiếm sản phẩm</a>
+        <a href="/Products/Hots">Danh sách bán chạy</a>
+        <a href="/Product/About">Giới thiệu</a>
+    </div>
+    <hr />
+    <div>
+        @RenderBody()
+    </div>
+    <hr />
+    <div>
+        <p style="text-align:center">Copyright &copy; 2020</p>
+    </div>
+</body>
+</html>
